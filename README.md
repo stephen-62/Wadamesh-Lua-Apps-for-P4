@@ -1,2 +1,4 @@
 # Wadamesh-Lua-Apps-for-P4
-Basic Calculator App (Beta)
+Basic Calculator App (Beta) Calc9.3.lua 
+
+Basic Checklist App (Beta) Jot2.4.lua
