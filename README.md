@@ -1,5 +1,5 @@
 # Wadamesh-Lua-Apps-for-P4,Wio L2,T-Deck,Others (Tested on P4 and Wio L2) 
-Basic Calculator App (Beta) Calc9.3.lua    
+Basic Calculator App (Beta) Calc9.4.lua     
    Simple calc app with error checking added. 
 
 Basic Checklist App (Beta) Jot2.4.lua   
